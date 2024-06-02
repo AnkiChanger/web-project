@@ -11,3 +11,4 @@ while True:
         break
     else:
         print('І як мені це розуміти?')
+#ну і так зійде
