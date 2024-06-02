@@ -5,5 +5,6 @@ while True:
         break
     if you == 'ні':
         print('ЩО ТІЛЬКИ Я САМ СЕБЕ ЛЮБЛЮ??')
+        break
     else:
         print('І як мені це розуміти?')
